@@ -17,7 +17,7 @@ Exploratory Data Analysis (EDA)
 []
 
 Dashboard Building
-[]
+![image](cause_ofdeath_peryear.png)
 
 
 
